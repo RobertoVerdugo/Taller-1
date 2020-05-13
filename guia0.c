@@ -19,6 +19,8 @@ int factorial_n_recursivo(int n);
 int calcular_tamano(int n,int *tam_resultado);
 void factorial_2 (int n,int tam_resultado,int resultado[(tam_resultado)]);
 
+// MUESTRA PA LOS CABROS
+
 int main(){
 	int n;
 	printf("\nIngrese el valor de n: \n"); scanf("%i",&n);
