@@ -1,4 +1,14 @@
-//Integrantes:
+/*Integrantes:
+
+Roberto Verdugo
+Felipe Parra
+Felipe Barrientos
+Martín Pizarro
+Oroi Teave
+
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
